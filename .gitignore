@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB autosaves and backups
+*.asv
+*.autosave
+*.mex*
+
+# Data files
+*.mat
+*.csv
