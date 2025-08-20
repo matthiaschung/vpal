@@ -9,7 +9,7 @@ Matthias Chung, Rosemary Renaut, Jack Michael Solomon
 
 ## Usage
 To setup the file structure, begin by running the script
-```matlab pathsetup.m
+```matlab pathsetup.m```
 
 A denoising example can be found in `demo/` which demonstrates the use of both vpal.m and vpalnl.m.
 
